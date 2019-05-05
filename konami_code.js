@@ -31,5 +31,5 @@ function keyPress(e) {
 
 function init() {
   //add event listener
-  document.body.addEventListener('keydown',);  
+  document.body.addEventListener('keydown', keyPress);  
 }
