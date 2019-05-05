@@ -11,6 +11,13 @@ const codes = [
   "a"
 ];
 
+let index = 0;
+
+function keyPress(e) {
+  
+}
+
 function init() {
-  // your code here
+  //add event listener
+  document.body.addEventListener('keydown',);  
 }
